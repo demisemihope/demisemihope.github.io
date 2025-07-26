@@ -3,8 +3,9 @@ description: My Journey, Piano Performances, Competitions, and Blog
 author: Kiki
 url: "https://demisemihope.github.io"
 baseurl: ""
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 markdown: kramdown
+show_downloads: false
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
