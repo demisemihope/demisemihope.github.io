@@ -1,9 +1,10 @@
-title: "My Personal Website"
-description: "University Application Journey, Piano Performances, Competitions, and Blog"
-author: "Kiki"
+title: My Personal Website
+description: My Journey, Piano Performances, Competitions, and Blog
+author: Kiki
 url: "https://demisemihope.github.io"
 baseurl: ""
-theme: "beautiful-jekyll"
+theme: beautiful-jekyll
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
