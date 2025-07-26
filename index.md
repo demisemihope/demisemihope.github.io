@@ -1,3 +1,7 @@
-# Welcome to My Personal Website
+---
+layout: home
+title: "Welcome"
+subtitle: "My Journey: University Applications, Piano, Competitions, and Reflections"
+---
 
-This site showcases my university application journey, awards, piano performances, and blog.
+Welcome to my personal website! Here you'll find my academic journey, musical performances, competition achievements, and personal reflections.
